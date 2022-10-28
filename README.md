@@ -4,6 +4,14 @@ Zuri task with branches
 # Project Title
 
 Zuri-task for training grading  
+Week3
+https://replit.com/@danieleduk/Registration-page-zuri-task?v=1
+https://replit.com/@danieleduk/Portfolio-Website?v=1
+
+Week5
+https://replit.com/@danieleduk/3-Column-Card-and-Grid-Layout?v=1
+https://replit.com/@danieleduk/Guessing-Game?v=1
+
 ## 🚀 About Me
 I'm Daniel Edu a full stack developer...
 
